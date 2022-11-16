@@ -1,5 +1,5 @@
   
-      # ✨ MEDICK ✨ 
+      # ✨ MEDICK MEDICAL ✨ 
 
 This is a web based application developed for health related based website in india
 
@@ -9,7 +9,7 @@ This is a web based application developed for health related based website in in
 *Project Link* -https://salmon-pond-0559dec00.2.azurestaticapps.net/
 
 
-*project demo video link* -
+*project demo video link* -https://youtu.be/BhHSZT2mbcM
 
 
  ## Features and Functionalities 😃
